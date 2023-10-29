@@ -1,7 +1,3 @@
-/// faça as seguintes funçoes: 
-///1. De vetor para lista.  Escreva uma função que copie o conteúdo de um vetor para uma lista encadeada preservando a ordem dos elementos.
-///2. De lista para vetor.  Escreva uma função que copie o conteúdo de uma lista encadeada para um vetor preservando a ordem dos elementos.
-
 #include <stdio.h>
 #include <stdlib.h>
 
